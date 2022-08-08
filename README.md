@@ -4,9 +4,9 @@
 In this app there is a text greeting you from me, "Hello from Kateryna!". If you click the "Change text color" button, the text color will change to orange, and if you click "Change background view", the background will change from white to green. Also, if you click "Change text string" the text will change to "Goodbye 👋".
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+![](https://i.imgur.com/u6tPyId.gif)
+
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
@@ -22,3 +22,4 @@ In this app there is a text greeting you from me, "Hello from Kateryna!". If you
    - [ ] b. User can tap the "Change text string" button to update the label with the text from the text field.
    - [ ] c. If the text field is empty, update label with default text string.
    - [ ] d. The keyboard is dismissed after the button has been tapped.
+

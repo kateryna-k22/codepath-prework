@@ -3,10 +3,9 @@
 ### App Description
 In this app there is a text greeting you from me, "Hello from Kateryna!". If you click the "Change text color" button, the text color will change to orange, and if you click "Change background view", the background will change from white to green. Also, if you click "Change text string" the text will change to "Goodbye 👋".
 
-### App Walk-though
+### App Walk-though!
 
-![](https://i.imgur.com/raTIs9O.gif)
-
+![](https://i.imgur.com/Y8HWIlr.gif)
 
 
 ### Required User Stories

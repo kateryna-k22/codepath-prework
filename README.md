@@ -1,4 +1,4 @@
-## Intro mini-game
+## CodePath Prework Mini-Game
 
 ### App Description
 In this app there is a text greeting you from me, "Hello from Kateryna!". If you click the "Change text color" button, the text color will change to orange, and if you click "Change background view", the background will change from white to green. Also, if you click "Change text string" the text will change to "Goodbye 👋".

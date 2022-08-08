@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A3F1262A-D3C9-41CD-A8F2-CDA5673EB05E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2D566E85-BCA0-455E-8038-2D8B9CF1E10A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Prework2/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "2D566E85-BCA0-455E-8038-2D8B9CF1E10A - 73baabdf821511dc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Prework2.ViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Prework2.ViewController"
+                  moduleName = "Prework2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/katerynakhomchyk/Desktop/Prework2/Prework2/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "31">
+               </Location>
+               <Location
+                  uuid = "2D566E85-BCA0-455E-8038-2D8B9CF1E10A - 1bf5e54ac7520edb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Prework2.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Prework2.ViewController"
+                  moduleName = "Prework2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/katerynakhomchyk/Desktop/Prework2/Prework2/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "117">
+               </Location>
+               <Location
+                  uuid = "2D566E85-BCA0-455E-8038-2D8B9CF1E10A - 1c2b52e6d17a0697"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Prework2.ViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Prework2.ViewController&gt;"
+                  moduleName = "Prework2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/katerynakhomchyk/Desktop/Prework2/Prework2/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  uuid = "2D566E85-BCA0-455E-8038-2D8B9CF1E10A - 6a50fae1c4022b05"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Prework2.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Prework2.ViewController&gt;"
+                  moduleName = "Prework2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/katerynakhomchyk/Desktop/Prework2/Prework2/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "74">
+               </Location>
+               <Location
+                  uuid = "2D566E85-BCA0-455E-8038-2D8B9CF1E10A - 605dabfae748cddb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Prework2.ViewController.__deallocating_deinit"
+                  moduleName = "Prework2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/katerynakhomchyk/Desktop/Prework2/Prework2/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E2A4A712-DA34-4BB0-9279-F4EC7C9FBDA0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Prework2/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "5"
+            endingLineNumber = "5"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -5,7 +5,8 @@ In this app there is a text greeting you from me, "Hello from Kateryna!". If you
 
 ### App Walk-though
 
-![](https://i.imgur.com/u6tPyId.gif)
+![](https://i.imgur.com/raTIs9O.gif)
+
 
 
 ### Required User Stories
